@@ -16,4 +16,6 @@ The `cron_parser` executable accepts a single argument, which is the cron string
 
 ./cron_parser "*/15 0 1,15 * 1-5 /usr/bin/find"
 
+### Sample Output
+<img width="1181" alt="Screenshot 2023-07-23 at 5 37 55 PM" src="https://github.com/Sachin-Rungta/CronParser/assets/87764393/111e122c-4216-415b-872f-7de136d13745">
 
